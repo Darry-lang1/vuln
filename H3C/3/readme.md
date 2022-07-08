@@ -7,7 +7,7 @@
 
 ## Affected version
 
-![image-20220624224706073](D:\vuln\H3C\1\img/image-20220624224706073.png)
+![image-20220624224706073](img/image-20220624224706073.png)
 
 The figure above shows the latest firmware.
 
