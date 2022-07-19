@@ -19,7 +19,7 @@ TOTOLINK A3700R (V9.1.2u.6134_B20201202) was found to contain a command insertio
 
 ![image-20220719225916336](img/image-20220719225916336.png)
 
-![image-20220719231241544](img\image-20220719231241544.png)
+![image-20220719231241544](img/image-20220719231241544.png)
 
 By calling these functions over and over again, we can ultimately call sub_4241E0 function (as shown in the last picture). By setting the proto value to 1, we can reach the default branch.V48 passes directly into the dosystem function.
 
