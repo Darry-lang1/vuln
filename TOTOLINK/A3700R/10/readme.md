@@ -1,4 +1,4 @@
-# TOTOLink A3700R V9.1.2u.6134_B20201202 Has an command injection vulnerability
+# TOTOLink A3700R V9.1.2u.6134_B20201202 has a stack overflow vulnerability
 
 ## Overview
 
