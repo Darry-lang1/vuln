@@ -15,7 +15,7 @@ H3C B5 Mini B5MiniV100R005 router, the latest version of simulation overview：
 
 The H3C B5 Mini B5MiniV100R005 router was found to have a stack overflow vulnerability in the Asp_SetTimingtimeWifiAndLed function. An attacker can obtain a stable root shell through a carefully constructed payload.
 
-![image-20220720231031268](D:\vuln\H3C\H3C B5Mini\5\img\image-20220720231031268.png)
+![image-20220720231031268](img/image-20220720231031268.png)
 
 In the `Asp_SetTimingtimeWifiAndLed` function, the `V11`(the value`param`) we entered is formatted using the `sscanf` function and in the form of `%[^;];`. This greedy matching mechanism is not secure, as long as the size of the data we enter is larger than the size of `V12`, it will cause a stack overflow.
 
