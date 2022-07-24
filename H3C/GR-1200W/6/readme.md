@@ -53,7 +53,7 @@ CMD=EditApAdvanceInfo&param=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 The picture above shows the process information before we send poc.
 
-![image-20220724221039594](D:\vuln\H3C\GR-1200W\2\img\image-20220724215659752.png)
+![image-20220724221039594](img/image-20220724215659752.png)
 
 In the picture above, we can see that the PID has changed since we sent the POC.
 
