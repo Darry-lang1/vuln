@@ -1,4 +1,4 @@
-# H3C GR2200 MiniGR1A0V100R014 Has an command injection vulnerability
+# H3C GR3200 MiniGR1B0V100R014 Has an command injection vulnerability
 
 ## Overview
 
@@ -7,13 +7,13 @@
 
 ### Product Information
 
-Overview of affected versions of H3C GR2200 router：
+Overview of affected versions of H3C GR3200 router：
 
 ![image-20220724132311844](img/image-20220724132311844.png)
 
 ## Vulnerability details
 
-H3C GR2200 (<=MiniGR1A0V100R014) was found to contain a command insertion vulnerability in DelL2tpLNSList.This vulnerability allows an attacker to execute arbitrary commands through the "param" parameter.
+H3C GR3200 (<=MiniGR1B0V100R014) was found to contain a command insertion vulnerability in DelL2tpLNSList.This vulnerability allows an attacker to execute arbitrary commands through the "param" parameter.
 
 ![image-20220724112402312](img/image-20220724112402312.png)
 
