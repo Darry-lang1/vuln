@@ -61,7 +61,7 @@ In the picture above, we can see that the PID has changed since we sent the POC.
 
 The picture above is the log information.
 
-![image-20220624230619282](D:\vuln\H3C\H3C B5Mini\7\img\image-20220624230619282.png)
+![image-20220624230619282](img/image-20220624230619282.png)
 
 By calculating offsets, we can compile special data to refer to denial-of-service attacks(DOS).
 
