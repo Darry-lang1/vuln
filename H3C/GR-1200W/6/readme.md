@@ -17,7 +17,7 @@ The H3C GR-1200W (<=MiniGRW1A0V100R006)  router was found to have a stack overfl
 
 ![image-20220724213415656](img/image-20220724213415656.png)
 
-In the `EditApAdvanceInfo` function, the `param` we entered is formatted using the `sscanf` function and in the form of `%[^;]`. This greedy matching mechanism is not secure, as long as the size of the data we enter is larger than the size of `V20`, it will cause a stack overflow.
+In the `EditApAdvanceInfo` function, the `param` we entered is formatted using the `sscanf` function and in the form of `%[^;]`. This greedy matching mechanism is not secure, as long as the size of the data we enter is larger than the size of `V14`, it will cause a stack overflow.
 
 ## Recurring vulnerabilities and POC
 
