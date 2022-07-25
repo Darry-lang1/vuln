@@ -7,7 +7,7 @@
 
 ### Product Information
 
-H3C B5 Mini B5MiniV100R005 router, the latest version of simulation overview：
+H3C GR-1200W MiniGRW1A0V100R006 router, the latest version of simulation overview：
 
 ![image-20220724213031606](img/image-20220724213031606.png)
 
