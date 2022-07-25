@@ -2,7 +2,7 @@
 
 ## Overview
 
-- Manufacturer's website information：https://www.h3c.com/cn/
+- Manufacturer's website information：https://www.h3c.com/
 - Firmware download address ： https://www.h3c.com/cn/d_202202/1542099_30005_0.htm
 
 ### Product Information
