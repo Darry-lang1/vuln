@@ -17,7 +17,7 @@ The H3C GR-1200W (<=MiniGRW1A0V100R006)  router was found to have a stack overfl
 
 ![image-20220724213415656](img/image-20220724213415656.png)
 
-In the `WanModeSetMultiWan` function, we entered `sa` (param). He found `;` through the `strchr` function. And copy the previous data into `V13` through the `strncpy` function. As long as the size of the data we input is larger than that of `V13`, it will cause the stack overflowing.
+In the `WanModeSetMultiWan` function, we entered `sa` (param). It found `;` through the `strchr` function. And copy the previous data into `V13` through the `strncpy` function. As long as the size of the data we input is larger than that of `V13`, it will cause the stack overflowing.
 
 ## Recurring vulnerabilities and POC
 
