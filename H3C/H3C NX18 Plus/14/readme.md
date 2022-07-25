@@ -53,7 +53,7 @@ CMD=SetMacAccessMode&param=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 The picture above shows the process information before we send poc.
 
-![image-20220723173049786](D:\vuln\H3C\NX18 Plus\14\img\image-20220720210915164.png)
+![image-20220723173049786](img/image-20220720210915164.png)
 
 In the picture above, we can see that the PID has changed since we sent the POC.
 
