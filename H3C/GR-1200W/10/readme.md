@@ -1,4 +1,4 @@
-# TOTOLink H3C GR-1200W (<=MiniGRW1A0V100R006) has a stack overflow vulnerability
+# H3C GR-1200W (<=MiniGRW1A0V100R006) has a stack overflow vulnerability
 
 ## Overview
 
