@@ -3,7 +3,7 @@
 ## Overview
 
 - Manufacturer's website information：https://www.totolink.net/
-- Firmware download address ： http://www.totolink.cn/home/menu/detail.html?menu_listtpl=download&id=69&ids=36
+- Firmware download address ： https://www.totolink.net/home/menu/detail/menu_listtpl/download/id/206/ids/36.html
 
 ### Product Information
 
