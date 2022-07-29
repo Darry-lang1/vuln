@@ -57,4 +57,4 @@ The above figure shows the POC attack effect
 
 ![image-20220724220055672](img/image-20220724220055672.png)
 
-Finally, you also can write exp to get a stable root shell without authorization.
+Finally, you also can write exp to get a stable root shell.
