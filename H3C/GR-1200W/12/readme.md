@@ -67,4 +67,4 @@ By calculating offsets, we can compile special data to refer to denial-of-servic
 
 ![image-20220724220055672](img/image-20220724220055672.png)
 
-Finally, you also can write exp to get a stable root shell without authorization.
+Finally, you also can write exp to get a stable root shell.
